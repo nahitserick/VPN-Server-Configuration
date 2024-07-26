@@ -1,7 +1,7 @@
 # VPN-Server-Configuration-with-pfSense
 
 ## Objective
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The objective of this lab was to configure a VPN server using pfSense to secure remote access to a network. The focus was on setting up IPsec and OpenVPN VPNs to allow remote clients to securely connect to network resources.
 
 ### Skills Learned
 - Understanding of VPN concepts and configurations.
